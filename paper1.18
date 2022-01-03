@@ -15,4 +15,4 @@ decode = utf-8
 fileEncoding = latin-1
 
 [start]
-command = java -Xmx{MAX_MEMORY}M -Xms{START_MEMORY}M -jar "{JAR}"
+command = /usr/lib/jvm/adoptopenjdk-11-hotspot-jre-amd64/bin/java -server -Xmx{MAX_MEMORY}M -Xms{START_MEMORY}M -jar "{JAR}"
