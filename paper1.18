@@ -5,7 +5,7 @@
 ## ===========================================================
 
 [config]
-name = Paper 1.18
+name = paper-1.18.1-132.jar
 source = https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/132/downloads/paper-1.18.1-132.jar
 configSource = https://raw.githubusercontent.com/At0micA55/multicraft/master/paper1.18
 
